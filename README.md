@@ -35,7 +35,7 @@ Tenho experiência com criação de casos de teste, testes exploratórios, repor
 * Criação de cenários de teste
 * Testes manuais e automatizados
 
-👉 (adicione quando criar ou subir)
+👉 https://github.com/AbnerSIlva99/rest-api-test-automation
 
 ---
 
